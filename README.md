@@ -1,5 +1,5 @@
 # mini-violin
-A tiny electric violin based on an ATTiny85 microcontroller ♫
+A mini PCB violin based on an ATTiny85 microcontroller ♫
 
 ![PCB top](/images/bottom.png)
 
